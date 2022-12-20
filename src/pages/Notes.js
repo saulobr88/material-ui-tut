@@ -6,7 +6,7 @@ export default function Notes() {
   return (
     <div>
       <Typography variant="h1" gutterBottom>
-        Create New Note
+        Notes
       </Typography>
       <Box sx={{ width: '100%', maxWidth: 500 }}>
         <Typography variant="h2" gutterBottom>
